@@ -1,0 +1,29 @@
+{
+  "name": "koishi-plugin-kknd",
+  "description": "允许群友视奸你的电脑屏幕，注意保护个人隐私哦",
+  "version": "0.0.3",
+  "contributors": [
+    "小舍 <DMB-codegang@users.noreply.github.com>"
+  ],
+  "main": "lib/index.js",
+  "typings": "lib/index.d.ts",
+  "files": [
+    "lib",
+    "dist"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DMB-codegang/kknd.git"
+  },
+  "scripts": {},
+  "keywords": [
+    "chatbot",
+    "koishi",
+    "plugin"
+  ],
+  "devDependencies": {},
+  "peerDependencies": {
+    "koishi": "^4.18.3"
+  }
+}
